@@ -20,7 +20,9 @@ This project demonstrates integration with the Setu Account Aggregator API using
    npm install axios
 4. Set up API credentials:
   Open tokenManager.js and replace clientId and clientSecret with your Setu API credentials.
-5. Run the project
+5. Run the project:
+   ```bash
+   node index.js
 
 ## Project Structure
    Components: 
